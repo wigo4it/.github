@@ -1,4 +1,4 @@
-![Wigo4it Logo](images/Logo.png)
+![Wigo4it Logo](../images/Logo.png)
 ## Public money = public code
 Wigo4it is a public cooperative of the four largest municipalities (Amsterdam, Rotterdam, The Hague and Utrecht) in the Netherlands. We build and run public software that is used and relied on every day, including social welfare benefits (bijstand) for more than 110.000 citizens. 
 
@@ -21,4 +21,4 @@ Some recent examples include:
 ## We build it. We run it. People depend on it. 
 As a non-commercial public organization we run software that directly affects people’s life. Interested in building public software with daily social impact? See our open roles. 
 
-![World Class Workplace](images/wcwp2025_2026.png)
+[![World Class Workplace](../images/wcwp2025_2026.png)](https://worldclassworkplace.com/)
