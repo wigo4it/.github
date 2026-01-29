@@ -1,4 +1,4 @@
-![Wigo4it Logo](../images/Logo.png)
+![Wigo4it Logo](../images/Logo_pill.png)
 ## Public money = public code
 Wigo4it is a public cooperative of the four largest municipalities (Amsterdam, Rotterdam, The Hague and Utrecht) in the Netherlands. We build and run public software that is used and relied on every day, including social welfare benefits (bijstand) for more than 110.000 citizens. 
 
@@ -7,8 +7,15 @@ As a public organization, we support public money = public code. In our view, op
 ## What you’ll find here 
 Wigo4it's GitHub page serves as a starting point for contributing more of our work and knowledge to the open-source community. Over time we’ll add more code, frameworks and tools that we develop and work with every day. While we work on that you’ll find here: insight into how we make technical choices (tech radar), vb, vb.  
 
-<!-- ## Technologies we work with  
-Icons  -->
+## Technologies we work with
+<p float="left>
+   <img src="../images/tech_logos/Azure.png" />
+   <img src="../images/tech_logos/CNCF.png" />
+   <img src="../images/tech_logos/DotNet.png" />
+   <img src="../images/tech_logos/GitHub.png" />
+   <img src="../images/tech_logos/Kubernetes.png" />
+   <img src="../images/tech_logos/Terraform.png" />
+</p>
 
 ## Giving back 
 We actively share what we learn about technology, culture and digital independence. This GitHub focuses on code and technical practice. For broader context, publications and reflections, please refer to the [publications](https://www.wigo4it.nl/publicaties/downloads/ ) on our website. 
