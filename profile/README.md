@@ -5,17 +5,19 @@ Wigo4it is a public cooperative of the four largest municipalities (Amsterdam, R
 As a public organization, we support public money = public code. In our view, open source is key to digital independence, transparency and long-term ownership in government. 
  
 ## What you’ll find here 
-Wigo4it's GitHub page serves as a starting point for contributing more of our work and knowledge to the open-source community. Over time we’ll add more code, frameworks and tools that we develop and work with every day. While we work on that you’ll find here: insight into how we make technical choices (tech radar), vb, vb.  
+This GitHub page serves as a starting point for contributing more of our work and knowledge to the open-source community. Over time we’ll add more code, frameworks and tools that we develop and work with every day. 
 
 ## Technologies we work with
-<p float="left>
-   <img src="../images/tech_logos/Azure.png" />
-   <img src="../images/tech_logos/CNCF.png" />
-   <img src="../images/tech_logos/DotNet.png" />
-   <img src="../images/tech_logos/GitHub.png" />
-   <img src="../images/tech_logos/Kubernetes.png" />
-   <img src="../images/tech_logos/Terraform.png" />
+<p float="left">
+   <a href="https://azure.microsoft.com/en-us"><img src="../images/tech_logos/Azure.png" /></a>
+   <a href="https://www.cncf.io/"><img src="../images/tech_logos/CNCF.png" /></a>
+   <a href="https://dotnet.microsoft.com/en-us/"><img src="../images/tech_logos/DotNet.png" /></a>
+   <a href="https://www.github.com"><img src="../images/tech_logos/GitHub.png" /></a>
+   <a href="https://kubernetes.io/"><img src="../images/tech_logos/Kubernetes.png" /></a>
+   <a href="https://developer.hashicorp.com/terraform"><img src="../images/tech_logos/Terraform.png" /></a>
 </p>
+
+You can find a complete overview of our technology landscape on our [Tech Radar](https://techradar.wigo4it.nl/).
 
 ## Giving back 
 We actively share what we learn about technology, culture and digital independence. This GitHub focuses on code and technical practice. For broader context, publications and reflections, please refer to the [publications](https://www.wigo4it.nl/publicaties/downloads/ ) on our website. 
