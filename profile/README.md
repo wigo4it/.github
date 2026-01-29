@@ -12,12 +12,23 @@ This GitHub page serves as a starting point for contributing more of our work an
    <a href="https://azure.microsoft.com/en-us"><img src="../images/tech_logos/Azure.png" /></a>
    <a href="https://www.cncf.io/"><img src="../images/tech_logos/CNCF.png" /></a>
    <a href="https://dotnet.microsoft.com/en-us/"><img src="../images/tech_logos/DotNet.png" /></a>
-   <a href="https://www.github.com"><img src="../images/tech_logos/GitHub.png" /></a>
+   <a href="https://www.github.com">
+      <picture>
+         <source srcset="../images/tech_logos/GitHub_dark.png" media="(prefers-color-scheme: dark)">
+         <img src="../images/tech_logos/GitHub_light.png">
+      </picture>
+   </a>
    <a href="https://kubernetes.io/"><img src="../images/tech_logos/Kubernetes.png" /></a>
-   <a href="https://developer.hashicorp.com/terraform"><img src="../images/tech_logos/Terraform.png" /></a>
+   <a href="https://developer.hashicorp.com/terraform">
+      <picture>
+         <source srcset="../images/tech_logos/Terraform_dark.png" media="(prefers-color-scheme: dark)">
+         <img src="../images/tech_logos/Terraform_light.png" />
+      </picture>
+   
+   </a>
 </p>
 
-You can find a complete overview of our technology landscape on our [Tech Radar](https://techradar.wigo4it.nl/).
+You can find a complete overview of our technology landscape on our [Tech Radar](https://www.wigo4it.nl/wat-we-doen/tech-radar/).
 
 ## Giving back 
 We actively share what we learn about technology, culture and digital independence. This GitHub focuses on code and technical practice. For broader context, publications and reflections, please refer to the [publications](https://www.wigo4it.nl/publicaties/downloads/ ) on our website. 
@@ -25,9 +36,9 @@ We actively share what we learn about technology, culture and digital independen
 Some recent examples include:
 - [Bring it on! How Wigo4it stays independent and agnostic in the Azure cloud (Techorama 2025)](https://www.wigo4it.nl/nieuws/race-naar-digital-independence-wigo4it-bij-techorama/)
 - Podcast: Herprogrammeer de Overheid ([Spotify](https://lnkd.in/exsk3Kfi) or [Apple podcast](https://lnkd.in/ePjJC_dG))
-- [Sustainable IT Impact Assessment (SIIA)](https://coalitieduurzamedigitalisering.nl/sustainable-it-impact-assessment-siia/)
+- [Sustainable IT Impact Assessment (SIIA)](https://www.wigo4it.nl/nieuws/sustainable-it-impact-assessment-siia-vermeld-wigo4it-als-voorbeeld/)
  
 ## We build it. We run it. People depend on it. 
-As a non-commercial public organization we run software that directly affects people’s life. Interested in building public software with daily social impact? See our open roles. 
+As a non-commercial public organization we run software that directly affects people’s life. Interested in building public software with daily social impact? See our open roles: [Werken bij Wigo4it](https://www.wigo4it.nl/werkenbij/).
 
-[![World Class Workplace](../images/wcwp2025_2026.png)](https://worldclassworkplace.com/)
+[![World Class Workplace](../images/wcwp2025_2026.png)](https://www.wigo4it.nl/nieuws/wigo4it-weer-world-class-workplace/)
